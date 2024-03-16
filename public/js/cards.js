@@ -4,7 +4,7 @@ const hrefURl = [
 const imageUrls = [
   'https://img.freepik.com/free-photo/empty-glowing-screen-with-person-holding-mobile-phone_53876-98458.jpg?size=626&ext=jpg&uid=R139493551&ga=GA1.1.695771359.1709017003&semt=sph',
   'https://images6.alphacoders.com/133/1331511.png',
-  'https://images.uzum.uz/cgphb4r57mg9720ebm7g/t_product_240_high.jpg',
+  'https://i.etsystatic.com/43898962/r/il/7a6320/5383790719/il_fullxfull.5383790719_qzna.jpg',
   'https://wallpapercave.com/wp/wp9637079.jpg',
   'https://images.unsplash.com/photo-1633966887768-64f9a867bdba?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fHRzaGlydHxlbnwwfHwwfHx8MA%3D%3D',
   'https://cdn.britannica.com/09/241709-050-149181B1/apple-iphone-11-2019.jpg',
