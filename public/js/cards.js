@@ -85,8 +85,10 @@ const filterCards = e => {
 
   cards.forEach(card => {
     card.style.display = 'none';
+    // card.classList.add("hidden")
     if (filterName === 'all' || card.dataset.name === filterName) {
       card.style.display = 'block';
+    // card.classList.add("block")
     }
   });
 }
