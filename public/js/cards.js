@@ -15,7 +15,7 @@ const titleS = [
   'shoes',
   'clothes',
   'shoes',
-  'cloth',
+  'clothes',
   'Phone',
 ];
 
