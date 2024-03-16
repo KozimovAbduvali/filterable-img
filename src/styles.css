@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer base {
+  html {
+    @apply scroll-smooth
+  }
+
+  body {
+    @apply bg-gray-100 font-roboto
+  }
+}
+
+.select-btn {
+  @apply bg-white rounded-md shadow-md py-2.5 px-5
+}
+
+.select-btn.active {
+  @apply bg-blue-700 text-white transition duration-300
+}
