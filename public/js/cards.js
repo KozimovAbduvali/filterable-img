@@ -84,11 +84,12 @@ const filterCards = e => {
   const cards = document.querySelectorAll('.card');
 
   cards.forEach(card => {
-    card.style.display = 'none';
-    // card.classList.add("hidden")
+    // card.style.display = 'none';
+    card.classList.add("hidden")
     if (filterName === 'all' || card.dataset.name === filterName) {
-      card.style.display = 'block';
-    // card.classList.add("block")
+      // card.style.display = 'block';
+    card.classList.add("block")
+
     }
   });
 }
